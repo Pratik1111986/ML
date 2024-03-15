@@ -1,1 +1,2 @@
-# ML
+Develop a machine learning model for the "Apple Quality Prediction" project using a dataset containing unique identifiers (A_id) and various fruit attributes such as Size, Weight, Sweetness, Crunchiness, Juiciness, Ripeness, Acidity, and Quality. The goal is to create a predictive model that accurately assesses the overall quality of apples based on these characteristics. This model should enable the identification of key factors influencing apple quality, providing valuable insights for growers and producers. 
+![image](https://github.com/Pratik1111986/ML/assets/101990591/07b34346-45ca-45a0-93a1-ecbefc838e7d)
